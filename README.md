@@ -1,2 +1,2 @@
 # Everyday-Security
-General cybersecurity guides for the everyday person
+General cybersecurity guides for the everyday person.
